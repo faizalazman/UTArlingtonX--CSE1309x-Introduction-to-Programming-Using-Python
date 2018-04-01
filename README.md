@@ -11,5 +11,5 @@ You will learn basic concepts and terminologies such as variables, operators, ex
 There are also graded modules which include 4 assignments, 6 quizzes, a midterm exam, and a final exam.  In order to earn a certificate you must have a score greater than 60% in the graded modules
 
 # Grading Policy
-
+![alt text](https://github.com/faizalazman/UTArlingtonX--CSE1309x-Introduction-to-Programming-Using-Python/blob/master/Grading%20Policy.png)
 
