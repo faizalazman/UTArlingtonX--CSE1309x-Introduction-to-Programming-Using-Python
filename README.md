@@ -11,5 +11,27 @@ You will learn basic concepts and terminologies such as variables, operators, ex
 There are also graded modules which include 4 assignments, 6 quizzes, a midterm exam, and a final exam.  In order to earn a certificate you must have a score greater than 60% in the graded modules
 
 # Grading Policy
+![alt text](https://github.com/faizalazman/UTArlingtonX--CSE1309x-Introduction-to-Programming-Using-Python/blob/master/Grading%20Policy.png)
 
+# Learning Outcomes
+
+Upon completing this course you will be able to:
+
+·        Understand Python expressions and statements
+
+·        Get user-input data and manipulate it.
+
+·        Understand simple and compound data types such as integers, floats, strings, lists, dictionaries, and tuples. 
+
+·        Implement structures such as if statements and loops
+
+·        Read from and write to external data files using Python.
+
+·        Implement functions and call built-in Python functions.
+
+·        Import and use library function modules from the Python library.
+
+·        Handle programming errors and exceptions.
+
+·        Implement useful and fun programs such as searching, sorting, and solving Sudoku and crossword puzzles.
 
